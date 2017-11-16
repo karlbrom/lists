@@ -1,3 +1,29 @@
 #EXTM3U
+#EXTINF:0,Nuart TV
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://4b96e23f51280e7a0874b8d4c479333672adc8c9
+#EXTINF:0,Cento x Cento
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://37df65ff53802a0b93cc28222e7c0bdbc770369f
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://48a00d60f187007ae1540091828db53ec6982ca6
+#EXTINF:0,Phoenix Marie TV
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://c036fe9f61dbf55551eb6c55b3faec481c27da0b
 #EXTINF:0,FAP TV BBW
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
 acestream://69830875190de5164b5c44496d1a0a642d2650ed
+#EXTINF:0,FAP TV Pissing
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://be6824cf4d3f0da823a1654dec0c363eeca8c2de
+#EXTINF:0,FAP TV Lesbian
+acestream://018e5eb25b0803ddeb805e9ba81e356482646cb2
+#EXTINF:0,SCT HD (SD)
+acestream://adb798748d7c20e45d2796104edebf9d832580a8
+
