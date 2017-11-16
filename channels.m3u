@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0,Sky 1
+acestream://d9135fcc98750c7baa7f0911828ca0dfd0d32054
+#EXTINF:0,Sky 2
+acestream://ac53af0567e4b3068b0f14cad42f575f28957d0f
+#EXTINF:0,National Geographic
+acestream://43fe6c0c1a529ed3d65327ce33309dfd289fec9b
+#EXTINF:0,Nat Geo Wild
+acestream://7807e18b4b37bc5249ff036a18c8e41af3fd0a0b
+#EXTINF:0,History Channel
+acestream://6f0e3cad89b136bf4bc2ea7068a63836fa520366
+#EXTINF:0,AMC
+acestream://0303a28f97522a00cd83e7b981bac16e64e5dcf0
