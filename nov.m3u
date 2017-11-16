@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:0,FAP TV Older
-#EXTVLCOPT:network-caching=1000
-plugin://program.plexus/?mode=1&url=acestream://bce05cba03e45095cdf3a406db14dd2062c539a5
+acestream://bce05cba03e45095cdf3a406db14dd2062c539a5
 #EXTINF:0,FAP TV BBW
 acestream://69830875190de5164b5c44496d1a0a642d2650ed
 #EXTINF:0,FAP TV Pissing
